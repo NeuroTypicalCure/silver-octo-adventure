@@ -1,5 +1,9 @@
 # silver-octo-adventure
-talk to ancestors
+
+Overview:
+---
+
+purpose: talk to ancestors
 
 The Canaanite alphabet, an early form of the Phoenician alphabet, is one of the earliest known alphabets and has significantly influenced many modern writing systems. Each letter in the Canaanite alphabet not only had a phonetic value but also an associated meaning and symbol. Here is a compilation of the letters, their meanings, and the symbols they represent:
 Canaanite Alphabet Letters and Their Meanings
@@ -115,9 +119,11 @@ Canaanite Alphabet Letters and Their Meanings
         Phonetic Value: /t/
 
 Desired MVP outcome:
+---
 
-when given string: "32191529233425239"
-this should be the output:
+when given string: "32191529233425239"    
+this should be the output:    
+
     Characters and Elements
 
         Gimel (Camel): Represents a journey or travel.
